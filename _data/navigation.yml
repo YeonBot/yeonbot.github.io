@@ -2,6 +2,8 @@
 main:
   - title: "글 목록"
     url: https://yeonbot.github.io/
+  - title: "분류"
+    url: /categories/
   - title: "목표"
     url: /about/
   # - title: "Sample Posts"
