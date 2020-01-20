@@ -1,13 +1,16 @@
 ---
-title: "이 블로그 설명서"
+title: "YeonBot의 블로그"
 permalink: /about/
 layout: single
 ---
 
-## YeonBot의 블로그
-
-이 블로그는 GitHub Pages 블로그 서비스인 github.io를 이용해 만들었습니다.
-
 개발 관련 글을 올리는 블로그입니다.
 
-진짜 블로그인 <https://yeonbot.github.io>을 방문해보자.
+댓글 및 토론은 환엽입니다.
+틀린 부분이 있다면 알려주세요.
+이해가 안가는 부분이 있다면 알려주세요.
+
+현재 개발공부 하고 있는 4학년 학생입니다.
+Java를 이용한 백앤드 개발을 주로 하고 있습니다.
+
+블로그 글 보러 가기 : <https://yeonbot.github.io>

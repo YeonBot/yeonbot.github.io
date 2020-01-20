@@ -109,8 +109,8 @@ author:
   name: "YeonBot"
   avatar: "/assets/images/avatar.jpg"
   bio: "행복하게 살자"
-  location: "South Korea"
-  email: "tjddus1109@gmail.com"
+  location: "한국 서울"
+  # email: "tjddus1109@gmail.com"
   links:
     - label: "이메일 보내기"
       icon: "fas fa-fw fa-envelope-square"
