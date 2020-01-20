@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "목록"
+  - title: "글 목록"
     url: https://yeonbot.github.io/
-  - title: "YeonBot"
+  - title: "목표"
     url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
