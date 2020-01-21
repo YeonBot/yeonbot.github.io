@@ -1,6 +1,6 @@
 ---
-title: ""
-excerpt: "ThreadLocal 이란 ? "
+title: "ThreadLocal 이란 ? "
+excerpt: "Thread의 장단점 과 ThreadLocal에 대해서 "
 header:
   teaser: /assets/images/shoes.jpg
 
